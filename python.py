@@ -8,8 +8,6 @@ window.title("PythonByte")
 
 window.geometry('500x350')
 
-window.iconbitmap('example.ico')
-
 def clicked():
 
     messagebox.showinfo('True', 'You have clicked the messagebox!')
